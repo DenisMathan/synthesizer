@@ -1,23 +1,9 @@
-### `yarn start`
+#### `My Lecturers Code`
+Unfortunately, I couldn't find the code I made out of this. For some reason I just saved the build-Folder react made back than. 
+Nevermind do whatever you want with it!
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+This is what I made out of this a few years ago.
+https://synthesizer-4db56.web.app/
 
-## Overview
-
-### Links
-
-* Reactstrap overview: https://reactstrap.github.io/
-* Reactstrap components: https://reactstrap.github.io/components/
-
-* CSS Cheat Sheet: https://htmlcheatsheet.com/css/
-
-* React Router: https://reacttraining.com/react-router/web/guides/quick-start
-
-## (Possible) Tasks
-
-### Play with routes
-
-### Add new routes
-
-### Experiment with sub routes
+### `npm install`
+### `npm start`
